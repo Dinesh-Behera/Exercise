@@ -28,7 +28,7 @@ public class Exercise_02 {
             System.out.println("You win");
         }
         else {
-            System.out.println("You lost");
+            System.out.println(" OOPS...! You lost");
         }
         System.out.println("Computer Choice : " + ComputerInput);
     }
