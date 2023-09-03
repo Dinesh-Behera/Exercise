@@ -1,5 +1,6 @@
 // Question -
-         // Calculate percentage of a given student in CBSE board exam.His marks from 5 subjects must be taken as input from the user.(Total marks 100)
+         // Calculate percentage of a given student in CBSE board exam.
+         //His marks from 5 subjects must be taken as input from the user.(Total marks 100)
 import java.util.Scanner;
 
 public class Exercise_01 {
